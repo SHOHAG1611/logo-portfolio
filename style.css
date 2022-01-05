@@ -1,0 +1,43 @@
+span{
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+h1{
+    font-style: unset;
+    font-size: 40px;
+}
+.first-class{
+    width: 50%;
+    display: inline;
+    margin-left: 20px;
+}
+.start{
+    display: flex;
+}
+.facbook{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,grey);
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-weight: 600;
+    
+}
+.youtube{
+    text-decoration: none;
+    background-image: linear-gradient(orange,grey);
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-weight: 600;
+    color: white;
+
+}
+.dove-fation{
+    display: flex;
+    width: 50%;
+    margin-left: 40px;
+
+}
+
+
